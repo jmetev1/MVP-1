@@ -18,15 +18,15 @@ Once the project moves into development, the press release can be used as a touc
  
 ## Headlines Per Country ##
   <!-- > Name the product in a way the reader (i.e. your target customers) will understand. -->
-  > This app creates an easy and simple way to read headlines per country.
+  > The New World Times creates an easy and simple way to read headlines per country.
 
 ## Information Is Important ##
   <!-- > Describe who the market for the product is and what benefit they get. One sentence only underneath the title. -->
-  > News and wide-spread information in an easy to use platform.
+  > News and widespread information in an easy to use platform.
 
 ## Summary ##
   <!-- > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good. -->
-  > This product will allow the user to click on a country on a map and see the headline. The user may tweet about this headline and even bookmark it to come back to it later.
+  > The New World Times allows the user to click on a country on a map and see the headline. The user may tweet about this headline and even bookmark it to come back to it later.
 
 ## The Problem ##
   <!-- > Describe the problem your product solves. -->
