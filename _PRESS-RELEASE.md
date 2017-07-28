@@ -36,7 +36,7 @@ Once the project moves into development, the press release can be used as a touc
   <!-- > Describe how your product elegantly solves the problem. -->
   > Simply clicking on a country allows you to instantly see the headlines!
 
-## Quote from Dev ##
+## Project Motto ##
   <!-- > A quote from a spokesperson in your company. -->
   > "Easy, simple, reliable."
 
@@ -50,4 +50,4 @@ Once the project moves into development, the press release can be used as a touc
 
 ## Now Get Going! ##
   <!-- > Wrap it up and give pointers where the reader should go next. -->
-  > Get started at *URL*.
+  > Get started at ***thenewworldtimes.com***
