@@ -1,5 +1,4 @@
-# Project Name #
-The New World Times
+# The New World Times #
 
 <!-- 
 > This material was originally posted [here](http://www.quora.com/What-is-Amazons-approach-to-product-development-and-product-management). It is reproduced here for posterities sake.
@@ -17,11 +16,11 @@ Oh, and I also like to write press-releases in what I call "Oprah-speak" for mai
 Once the project moves into development, the press release can be used as a touchstone; a guiding light. The product team can ask themselves, "Are we building what is in the press release?" If they find they're spending time building things that aren't in the press release (overbuilding), they need to ask themselves why. This keeps product development focused on achieving the customer benefits and not building extraneous stuff that takes longer to build, takes resources to maintain, and doesn't provide real customer benefit (at least not enough to warrant inclusion in the press release).
  -->
  
-## Heading ##
+## Headlines Per Country ##
   <!-- > Name the product in a way the reader (i.e. your target customers) will understand. -->
   > This app creates an easy and simple way to read headlines per country.
 
-## Sub-Heading ##
+## Information Is Important ##
   <!-- > Describe who the market for the product is and what benefit they get. One sentence only underneath the title. -->
   > News and wide-spread information in an easy to use platform.
 
@@ -29,15 +28,15 @@ Once the project moves into development, the press release can be used as a touc
   <!-- > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good. -->
   > This product will allow the user to click on a country on a map and see the headline. The user may tweet about this headline and even bookmark it to come back to it later.
 
-## Problem ##
+## The Problem ##
   <!-- > Describe the problem your product solves. -->
   > Searching for news in a specific country.
 
-## Solution ##
+## Our Solution! ##
   <!-- > Describe how your product elegantly solves the problem. -->
   > Simply clicking on a country allows you to instantly see the headlines!
 
-## Quote from You ##
+## Quote from Dev ##
   <!-- > A quote from a spokesperson in your company. -->
   > "Easy, simple, reliable."
 
@@ -45,10 +44,10 @@ Once the project moves into development, the press release can be used as a touc
   <!-- > Describe how easy it is to get started. -->
   > Just load the webpage, create an account, and you're done and ready to view the news!
 
-## Customer Quote ##
+## Customer Satisfaction ##
   <!-- > Provide a quote from a hypothetical customer that describes how they experienced the benefit. -->
   > "Keeing up to date on whats happening around the world is made so much easier with this app!"
 
-## Closing and Call to Action ##
+## Now Get Going! ##
   <!-- > Wrap it up and give pointers where the reader should go next. -->
   > Get started at *URL*.
